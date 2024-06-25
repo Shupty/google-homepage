@@ -1,2 +1,2 @@
 # google-homepage
-google homepage designing using html | css
+google homepage designing with html | css
